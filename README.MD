@@ -7,7 +7,7 @@ pipeline{
     stages{
         stage('git'){
             steps{
-               https://github.com/gouthi1/judy.git
+               https://github.com/achantigopikrishna/judy.git
             }
         }
         stage('build'){
